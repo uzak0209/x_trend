@@ -1,0 +1,27 @@
+# バイナリファイル
+bin/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# テストファイル
+*.test
+*.out
+
+# 依存関係
+/vendor/
+
+# IDE関連
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS関連
+.DS_Store
+Thumbs.db
+
+# デバッグファイル
+debug 
